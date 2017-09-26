@@ -1,1 +1,2 @@
 Some Content
+New content with Git Bash.
