@@ -1,3 +1,4 @@
 # Test-Homework
 Test Homework
-Conflict test
+We resolved the conflict.
+
